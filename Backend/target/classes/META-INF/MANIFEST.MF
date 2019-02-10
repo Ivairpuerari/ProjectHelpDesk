@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Ivaai
+Build-Jdk: 11.0.1
+Implementation-Title: helpDesk
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.ivairpuerari
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/helpDesk
+Created-By: Maven Integration for Eclipse
+
